@@ -1,7 +1,6 @@
 ---
 ## Author
 author:
-<<<<<<< HEAD
   name: Люкшина Влада Алексеевна
   email: 1132243022@pfur.ru
 =======
